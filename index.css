@@ -1,0 +1,27 @@
+body { 
+    background: #f8f8f8;
+}    
+
+.container {
+    width: 80%;
+    margin: 15px auto;
+}
+
+h2 {
+    margin: 0.5em auto;
+    text-align: center;
+}
+
+p {
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+
+.fw-700 {
+    font-weight: 700;
+}
+
+input.btn {
+     width: 150px;
+     
+}
