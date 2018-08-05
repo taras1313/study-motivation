@@ -1,18 +1,18 @@
 body { 
     background: #f8f8f8;
-    background: url(https://i.ebayimg.com/images/g/JbIAAOSwZG9WjDUs/s-l300.jpg) repeat;
+    /*background: url(https://i.ebayimg.com/images/g/JbIAAOSwZG9WjDUs/s-l300.jpg) repeat;*/
     
 }    
 
 .container {
     width: 80%;
     margin: 15px auto;
-    background: rgb(0,0,0,0.9);
-    color: #f8f8f8;
+    /*background: rgb(0,0,0,0.9);*/
+    /*color: #f8f8f8;*/
 }
 
 footer {
-    background: rgb(0,0,0,0.9);
+    /*background: rgb(0,0,0,0.9);*/
 }
 
 h2:first-child {
