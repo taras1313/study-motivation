@@ -1,10 +1,22 @@
 body { 
     background: #f8f8f8;
+    background: url(https://i.ebayimg.com/images/g/JbIAAOSwZG9WjDUs/s-l300.jpg) repeat;
+    
 }    
 
 .container {
     width: 80%;
     margin: 15px auto;
+    background: rgb(0,0,0,0.9);
+    color: #f8f8f8;
+}
+
+footer {
+    background: rgb(0,0,0,0.9);
+}
+
+h2:first-child {
+    margin-top: 0;
 }
 
 h2 {
@@ -24,4 +36,11 @@ p {
 input.btn {
      width: 150px;
      
+}
+
+img {
+    position: fixed;
+    top: 20px;
+    right: 30px;
+    width: 100px;
 }
